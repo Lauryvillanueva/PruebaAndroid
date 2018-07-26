@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba Android</string>
+    <string name="guardar">Guardar</string>
+    <string name="title_activity_actividad_tareas">ActividadTareas</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+</resources>
